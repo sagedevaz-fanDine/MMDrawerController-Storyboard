@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
                    DESC
 
   s.source_files  = 'MMDrawerController+Storyboard.{h,m}'
-  s.dependency 'MMDrawerController', '~> 0.4.0'
+  s.dependency 'MMDrawerController', '~> 0.5.0'
 
 end
